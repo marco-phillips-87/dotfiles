@@ -1,0 +1,12 @@
+[user]
+    name = Jordan
+    email = marco-phillips-87@users.noreply.github.com
+[core]
+    editor = vim
+    autocrlf = input
+[pull]
+    rebase = true
+[alias]
+    st = status
+    co = checkout
+    ci = commit
